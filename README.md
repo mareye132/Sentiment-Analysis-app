@@ -2,6 +2,7 @@
 This project is an AI-powered web application that performs sentiment analysis on user-input text. It classifies input sentences into positive or negative sentiment using a machine learning model trained with scikit-learn. The frontend is built with Streamlit, allowing real-time interaction through a simple and clean interface.
 
 🔍 Features
+
 ✅ Built from scratch using Python
 
 ✅ Uses TfidfVectorizer + Naive Bayes model
