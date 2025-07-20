@@ -1,3 +1,9 @@
 streamlit
 scikit-learn
+gensim
+sklearn
+pandas
+numpy
 joblib
+flask
+flask-cors
