@@ -1,9 +1,7 @@
 streamlit
+gensim==4.3.3
 scikit-learn
-gensim
-sklearn
 pandas
 numpy
 joblib
-flask
-flask-cors
+nltk
