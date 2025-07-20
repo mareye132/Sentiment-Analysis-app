@@ -1,5 +1,5 @@
 streamlit
-gensim==4.3.3
+gensim
 scikit-learn
 pandas
 numpy
